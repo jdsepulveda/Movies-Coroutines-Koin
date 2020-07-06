@@ -1,0 +1,6 @@
+- Koin
+- Retrofit
+- Kotlin
+- MVVM
+- Coroutine
+- Navigation
